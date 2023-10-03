@@ -8,9 +8,9 @@ Rampy is a fast, simple and short Windows RAM file parser written in python and 
 - No dependencies needed
 
 ## Usage
-First, you need to make sure that [Python3] is installed
-Then, you run [Winpmem] on your local machine and extract the RAM file
-And then you run Rampy, specifying the RAM file path
+First, you need to make sure that [Python3] is installed.  
+Then, you run [Winpmem] on your local machine and extract the RAM file.  
+And then you run Rampy, specifying the RAM file path.  
 ```sh
 python3.exe rampy.py [path_to_ram_file]
 ```
